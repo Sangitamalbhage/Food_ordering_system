@@ -1,1 +1,2 @@
 # Food_ordering_system
+A Food Ordering System built with Java Spring Boot as the backend and React as the frontend is a web-based application that allows customers to browse menus, place orders, and track the status of their orders. It typically involves two major components: the frontend (React) for the user interface and the backend (Spring Boot) to handle the business logic, database interactions, and API services.
